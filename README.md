@@ -1,8 +1,8 @@
-# 💰 DON WORRY, DON’T WORRY &nbsp; <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+# 💰 DON WORRY, DON’T WORRY &nbsp; <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=Expo&logoColor=white"/>
 
-####  사용자 소비 관리 및 개선 서비스 
+####  사용자가 자신의 소비 내역을 카테고리별로 확인하고 분석함으로써, 보다 합리적인 소비 습관을 형성할 수 있도록 지원하는 소비 관리 및 개선 서비스입니다.
 
-### .
+### [APK 파일 다운](https://drive.google.com/file/d/1LPMp-jygWtO3NXl-gkVTlLzJFNLqY-dJ/view?usp=sharing)
 
 ---
 
@@ -12,11 +12,11 @@
 
 <br>
 
-> **더치페이 기능 설계 및 구현**
+> **소비 항목에 친구를 추가하여 각각의 금액을 직접 입력하거나, ‘1/N’ 자동 분배 버튼을 통해 간편하게 입력할 수 있는 더치페이 기능 설계 및 구현**
 
-> **소비 카테고리 기반 분석 UI 및 마이페이지 설계**
+> **카테고리별 소비 데이터를 시각적으로 표현한 UI 구성과 마이페이지 기능 개발**
 
-> **사용자 경험(UX) 강화 요소 및 시각적 피드백 구현**
+> **프로그레스바, 내 계좌 송금 기능 등 사용자 경험(UX)을 강화하고, 시각적 완성도를 높이기 위한 애니메이션 효과 구현**
 
 ---
 
