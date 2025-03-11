@@ -1,10 +1,65 @@
-## 💰 DON WORRY, DON’T WORRY
+# 💰 DON WORRY, DON’T WORRY &nbsp; <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
-### 사용자 소비 관리 및 개선 서비스
+####  사용자 소비 관리 및 개선 서비스 
+
+### .
+
+---
+
+### 앱 / 팀 프로젝트 (SSAFY)
+
+### 2023.08.21 ~ 2023.10.06 (6주)
 
 <br>
 
-## 👩‍👩‍👧‍👧 팀원 소개
+> **더치페이 기능 설계 및 구현**
+
+> **소비 카테고리 기반 분석 UI 및 마이페이지 설계**
+
+> **사용자 경험(UX) 강화 요소 및 시각적 피드백 구현**
+
+---
+
+<br>
+
+### 💻 Overview
+
+|                 송금 1                |                 송금 2                 |                송금 3                |                송금 4                |              송금 5              |
+| :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :--------------------------------: | :----------------------------------: |
+| ![image](./exec/images/transfer_account_search.jpg) | ![image](./exec/images/transfer_account_fail.jpg) | ![image](./exec/images/transfer_price.jpg) | ![image](./exec/images/transfer_init.jpg) | ![image](./exec/images/transfer_result.jpg) |
+
+|                 순자산 그래프                 |                 목표 1                 |                목표 2                |                잔고                 |              카드내역 조회              |
+| :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :--------------------------------: | :----------------------------------: |
+| ![image](./exec/images/jasan_graph.jpg) | ![image](./exec/images/goal_set.jpg) | ![image](./exec/images/goal_result.jpg) | ![image](./exec/images/jango.jpg) | ![image](./exec/images/card_consumption.jpg) |
+
+|                 소비내역 조회                 |                 더치페이 요청 1                 |                더치페이 요청 2                |                더치페이 완료                |              더치페이 결과 1             |
+| :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :--------------------------------: | :----------------------------------: |
+| ![image](./exec/images/consumption_init.jpg) | ![image](./exec/images/dutchpay_category%20(1).jpg) | ![image](./exec/images/dutchpay_req.jpg) | ![image](./exec/images/dutchpay_transfer.jpg) | ![image](./exec/images/dutchpay_category_change.jpg) |
+
+|                 더치페이 결과 2                 |                 친구와 비교                 |                친구 요청하기 1               |                친구 요청하기 2             |              친구 요청 확인              |
+| :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :--------------------------------: | :----------------------------------: |
+| ![image](./exec/images/dutchpay_category.jpg) | ![image](./exec/images/friend_conparison.jpg) | ![image](./exec/images/friend_req_search.jpg) | ![image](./exec/images/friend_req_message.jpg) | ![image](./exec/images/friend_res.jpg) |
+
+|            친구 요청 결과                      |                 마이페이지 1                 |                마이페이지 2                |                내소식                 |              절약왕과 비교             |
+| :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :--------------------------------: | :----------------------------------: |
+| ![image](./exec/images/friend_result.jpg) | ![image](./exec/images/mypage_init.jpg) | ![image](./exec/images/mypage_logout.jpg) | ![image](./exec/images/notifications_init.jpg) | ![image](./exec/images/king_comparison.jpg) |
+
+
+<br>
+
+## 🔗 프로젝트 개요
+
+### 💡 기획 배경
+
+SNS 등이 활발해지며, 사람들은 자신의 생활을 노출합니다. 하지만 사실적인 내용이 아닌 과장된 생활을 노출하며, 이를 보는 사람들은 상대적 박탈감, 또는 회의감을 느낄 수 있습니다. 현재 SNS와 같이 사람들이 소비생활을 노출하고, 박탈감을 느끼게 되는 플랫폼은 다양하지만, 소비를 개선하고 저축을 하며 살아가는 사람들을 위한 서비스가 부족하다고 생각하였습니다.
+
+저축을 공유하는 서비스가 부족하다는 점에 초점을 맞추어 사람들이 소비 습관을 공유하여, 서로 간 개선점을 찾을 수 있고, 현재 사용자가 위치한 자산 순위를 제공하여 자금에 대한 목표를 세울 수 있는 서비스를 구현하고자 하였습니다.
+
+※ 마이데이터 사용 불가로 은행과 카드, 소비내역과 관련된 ERD와 데이터를 구현하여 사용하였습니다.
+
+<br>
+
+### 👩‍👩‍👧‍👧 팀원 소개
 
 **유호재** : `팀장` ,  `BackEnd` : Spring Cloud 서버 구현, 자산 관련 API 구현, 카드 관련 API 구현
 
@@ -19,20 +74,6 @@
 **홍경환** : `FrontEnd` : 자산, 자산목표 관련 페이지 제작, 송금 관련 페이지 제작, React Native 달력, 그래프 라이브러리 활용한 기능 구현
 
 <br>
-
-## 🔗 프로젝트 개요
-
-### 💡 기획 배경
-
-SNS 등이 활발해지며, 사람들은 자신의 생활을 노출합니다. 하지만 사실적인 내용이 아닌 과장된 생활을 노출하며, 이를 보는 사람들은 상대적 박탈감, 또는 회의감을 느낄 수 있습니다. 현재 SNS와 같이 사람들이 소비생활을 노출하고, 박탈감을 느끼게 되는 플랫폼은 다양하지만, 소비를 개선하고 저축을 하며 살아가는 사람들을 위한 서비스가 부족하다고 생각하였습니다.
-
-저축을 공유하는 서비스가 부족하다는 점에 초점을 맞추어 사람들이 소비 습관을 공유하여, 서로 간 개선점을 찾을 수 있고, 현재 사용자가 위치한 자산 순위를 제공하여 자금에 대한 목표를 세울 수 있는 서비스를 구현하고자 하였습니다.
-
-※ 마이데이터 사용 불가로 은행과 카드, 소비내역과 관련된 ERD와 데이터를 구현하여 사용하였습니다.
-
-### 📅 프로젝트 진행 기간
-
-2023.08.21 ~ 2023.10.06
 
 ### 🔗 기술스택
 #### **FrontEnd**
@@ -86,23 +127,4 @@ SNS 등이 활발해지며, 사람들은 자신의 생활을 노출합니다. �
 
 <br>
 
-|                 송금 1                |                 송금 2                 |                송금 3                |                송금 4                |              송금 5              |
-| :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :--------------------------------: | :----------------------------------: |
-| ![image](./exec/images/transfer_account_search.jpg) | ![image](./exec/images/transfer_account_fail.jpg) | ![image](./exec/images/transfer_price.jpg) | ![image](./exec/images/transfer_init.jpg) | ![image](./exec/images/transfer_result.jpg) |
-
-|                 순자산 그래프                 |                 목표 1                 |                목표 2                |                잔고                 |              카드내역 조회              |
-| :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :--------------------------------: | :----------------------------------: |
-| ![image](./exec/images/jasan_graph.jpg) | ![image](./exec/images/goal_set.jpg) | ![image](./exec/images/goal_result.jpg) | ![image](./exec/images/jango.jpg) | ![image](./exec/images/card_consumption.jpg) |
-
-|                 소비내역 조회                 |                 더치페이 요청 1                 |                더치페이 요청 2                |                더치페이 완료                |              더치페이 결과 1             |
-| :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :--------------------------------: | :----------------------------------: |
-| ![image](./exec/images/consumption_init.jpg) | ![image](./exec/images/dutchpay_category%20(1).jpg) | ![image](./exec/images/dutchpay_req.jpg) | ![image](./exec/images/dutchpay_transfer.jpg) | ![image](./exec/images/dutchpay_category_change.jpg) |
-
-|                 더치페이 결과 2                 |                 친구와 비교                 |                친구 요청하기 1               |                친구 요청하기 2             |              친구 요청 확인              |
-| :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :--------------------------------: | :----------------------------------: |
-| ![image](./exec/images/dutchpay_category.jpg) | ![image](./exec/images/friend_conparison.jpg) | ![image](./exec/images/friend_req_search.jpg) | ![image](./exec/images/friend_req_message.jpg) | ![image](./exec/images/friend_res.jpg) |
-
-|            친구 요청 결과                      |                 마이페이지 1                 |                마이페이지 2                |                내소식                 |              절약왕과 비교             |
-| :-----------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :--------------------------------: | :----------------------------------: |
-| ![image](./exec/images/friend_result.jpg) | ![image](./exec/images/mypage_init.jpg) | ![image](./exec/images/mypage_logout.jpg) | ![image](./exec/images/notifications_init.jpg) | ![image](./exec/images/king_comparison.jpg) |
 
