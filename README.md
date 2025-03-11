@@ -2,7 +2,7 @@
 
 ####  사용자가 자신의 소비 내역을 카테고리별로 확인하고 분석함으로써, 보다 합리적인 소비 습관을 형성할 수 있도록 지원하는 소비 관리 및 개선 서비스입니다.
 
-### [APK 파일 다운](https://drive.google.com/file/d/1LPMp-jygWtO3NXl-gkVTlLzJFNLqY-dJ/view?usp=sharing)
+### [DONWORRY.apk 파일 다운](https://drive.google.com/file/d/1LPMp-jygWtO3NXl-gkVTlLzJFNLqY-dJ/view?usp=sharing)
 
 ---
 
